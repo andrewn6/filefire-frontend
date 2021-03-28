@@ -1,0 +1,18 @@
+@media only screen and (max-width: 700px) {
+  .container {
+    margin-left: 4px !important;
+    margin-right: 4px !important;
+  }
+  .account-container {
+    flex-direction: column !important;
+    width: 95% !important;
+  }
+  .tabs {
+    width: 95% !important;
+    margin-left: 4px !important;
+    margin-right: 8px !important;
+  }
+  .switch {
+    margin: 8px 8px 16px 4px !important;
+  }
+}
